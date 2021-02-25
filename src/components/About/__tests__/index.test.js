@@ -6,10 +6,6 @@ import About from '..';
 afterEach(cleanup);
 
 describe('About component', () => {
-  //renders About test
-})
-
-describe('About component', () => {
   // First Test
   it('renders', () => {
     render(<About />);
