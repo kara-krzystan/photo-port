@@ -1,4 +1,4 @@
-# Module 20 Project: Photo Port
+# Module 20 Project: Photo-Port
 
 ## Description
 This week's project was to build a Single-Page Application (SPA) using the React library. This application uses React state, props, Hooks, and reusable UI components to show off a fictional client's photography business.  
